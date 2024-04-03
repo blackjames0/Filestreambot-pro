@@ -5,7 +5,6 @@
         "telegram",
         "web",
         "pyrogram",
-        "aiohttp",
         "python",
         "plugin",
         "modular",
