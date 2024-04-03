@@ -100,12 +100,13 @@
       }
   },
   "buildpacks": [{
-      "url": "heroku/python"
-    }],
-  "formation": {
-      "web": {
-          "quantity": 1,
-          "size": "eco"
-      }
-  }
+        "url": "heroku/python"
+      }],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "eco"
+        }
+    },
+    "stack": "heroku-22"
 }
